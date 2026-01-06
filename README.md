@@ -4,4 +4,4 @@ I also developped a mobile app named Weav, a fashion-focused social network.
 
 ## What do I use ?
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,github,aws,mongodb,python,cs,redux,vscode,mysql&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,js,react,mongodb,cs,redux,vscode,mysql,docker,git,obsidian,&perline=5)](https://skillicons.dev)
