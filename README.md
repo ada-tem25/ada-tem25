@@ -7,3 +7,7 @@
 ## What do I use ?
 
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,js,react,mongodb,vscode,mysql,docker,git,obsidian,&perline=5)](https://skillicons.dev)
+
+## 📄 CV
+- [English version](cv/EN_CV_Github.pdf)
+- [French version](cv/FR_CV_Github.pdf)
