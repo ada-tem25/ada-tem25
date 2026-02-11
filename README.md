@@ -2,7 +2,7 @@
 
 - I'm a student in the MSc Environmental Data Science and Machine Learning at Imperial College London. 
 - I am currently exploring agentic workflows through multiple side projects. 
-- I also developped in the past a mobile app named Weav, a fashion-focused social network. 
+- I also developped in the past a mobile app named Weav, a fashion-focused social network: www.weavapp.com
 
 ## What do I use ?
 
